@@ -1,0 +1,62 @@
+body {
+    background-color: bisque;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+main {
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 20px;
+}
+
+.preparation {
+    background-color: rgb(253, 220, 226);
+    padding-left: 10px;
+    
+}
+.preparation p{
+    color: purple;
+}
+.ingredients h5{
+    color: red;
+}
+.Instructions h4 {
+    color: red;
+} 
+.nutrition h4 {
+    color: red;
+} 
+
+.nutrition table {
+    width:100%;
+    border-collapse: collapse;
+} 
+.nutrition table tr{
+    border-bottom: 1px solid gray;
+} 
+
+.nutrition table tr:nth-child(4){
+    border-bottom:none;
+} 
+
+
+.nutrition table td{
+    padding-top: .7em;
+}   
+
+main h1{
+    font-family: young-serif;
+} 
+main h1{
+    font-family: young-serif;
+}
+img {
+    width: 600px;
+    padding-top: 20px;
+}
+.attribution{
+    padding-top: 1em;
+}   
+
+
+
